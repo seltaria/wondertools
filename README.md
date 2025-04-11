@@ -7,7 +7,7 @@ ___
 
 ### API Things
 + [Cat API](https://thecatapi.com/) - Get cats, search by breeds, add to favs
-+ [Cat Facts API](https://alexwohlbruck.github.io/cat-facts/docs/) - Get fact about cats
++ [Cat Facts API](https://catfact.ninja/#/Facts/getRandomFact) - Get fact about cats
 
 ### AI Things
 
