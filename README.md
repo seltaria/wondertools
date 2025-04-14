@@ -4,8 +4,12 @@ Welcome to my list of different links and tools <br>
 (I have a plan to create a beautiful web page with all these resources and its descriptions but not today)
 
 ___
+### Programmer Things
+
++ [SOLID in React](https://proglib.io/p/luchshie-praktiki-primeneniya-principov-solid-v-react-2022-08-10) - (RU) The best practice of using SOLID principles in React
 
 ### API Things
+
 + [Cat API](https://thecatapi.com/) - Get cats, search by breeds, add to favs
 + [Cat Facts API](https://catfact.ninja/#/Facts/getRandomFact) - Get fact about cats
 
@@ -55,7 +59,7 @@ ___
 ### News & Articles
 
 + [Dockerize a Next.js App](https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d)
-+ [Agent mode VS Code в 2025 году](https://habr.com/ru/companies/bar/news/898538/)
++ [Agent mode VS Code в 2025 году](https://habr.com/ru/companies/bar/news/898538/) - (RU) Agent mode VS Code
 
 ### Places To Go
 
